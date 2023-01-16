@@ -1,5 +1,9 @@
 # Concrete Strength
 
+## Dataset
+- Access on [Kaggle](https://www.kaggle.com/datasets/maajdl/yeh-concret-data)
+- 1030 samples of concrete containing their component ingredients along with csMPA, a measurement of their strength in terms of pressure withstood
+
 ## Objectives
 - Identify the most important component factors that determine the strength of a concrete sample
 - Predict the csMPa (measurement unit of concrete strength) of a sample of concrete based on using a regression model trained on train set data
